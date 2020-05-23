@@ -5,6 +5,9 @@ classified by company
 # Google interview
 
 ## [Interview Process](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Interview%20Process.ipynb)
+* **947. Most Stones Removed with Same Row or Column**
+* **975. Odd Even Jump**
+* **482. License Key Formatting**
 
 ## [Arrays and Strings](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Array%20and%20String.ipynb)
 * **1. Two Sum**
@@ -44,5 +47,18 @@ classified by company
 * **973. K Closest Points to Origin**
 
 ## [Dynamic Programming](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Dynamic%20programming.ipynb)
+* **5. Longest Palindromic Substring**
+* **53. Maximum Subarray**
+* **121. Best Time to Buy and Sell Stock**
+* **152. Maximum Product Subarray**
+* **322. Coin Change**
+* **410. Split Array Largest Sum**
 
 ## [Graphs](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Graphs.ipynb)
+* **127. Word Ladder**
+* **200. Number of Islands**
+* **210. Course Schedule II**
+* **329. Longest Increasing Path in a Matrix**
+* **394. Decode String**
+* **753. Cracking the Safe**
+* **947. Most Stones Removed with Same Row or Column**
