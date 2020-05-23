@@ -13,8 +13,8 @@ classified by company
 * **15. 3Sum**
 * **3. Longest Substring Without Repeating Characters**
 * **242. Valid Anagram**
-* **54. Spiral Matrix**
-* **88. Merge Sorted Array**
+- **54. Spiral Matrix**
+- **88. Merge Sorted Array**
 * **118. Pascal's Triangle**
 * **273. Integer to English Words**
 * **283. Move Zeroes**
