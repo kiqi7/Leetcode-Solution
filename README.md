@@ -8,8 +8,8 @@ classified by company
 
 
 ## [Arrays and Strings](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Array%20and%20String.ipynb)
-* 1. Two Sum
-* 167. Two Sum II
+* **1. Two Sum
+* **167. Two Sum II
 * 15. 3Sum
 * 3. Longest Substring Without Repeating Characters
 * 242. Valid Anagram
