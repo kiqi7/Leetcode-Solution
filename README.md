@@ -62,3 +62,16 @@ classified by company
 * **394. Decode String**
 * **753. Cracking the Safe**
 * **947. Most Stones Removed with Same Row or Column**
+
+## [Others](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Others.ipynb)
+* **7. Reverse Integer**
+* **135. Candy**
+* **205. Isomorphic Strings**
+* **246. Strobogrammatic Number**
+* **299. Bulls and Cows**
+* **308. Range Sum Query 2D - Mutable**
+* **731. My Calendar II**
+* **771. Jewels and Stones**
+* **777. Swap Adjacent in LR String**
+* **843. Guess the Word**
+* **939. Minimum Area Rectangle**
