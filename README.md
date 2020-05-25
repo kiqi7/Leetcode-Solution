@@ -75,3 +75,14 @@ classified by company
 * **777. Swap Adjacent in LR String**
 * **843. Guess the Word**
 * **939. Minimum Area Rectangle**
+
+# Bloomberg Interview
+
+## [Sorting and Searching](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Sorting%20and%20Searching%20-%20(Top%20K%20Frequent).ipynb)
+* **4. Median of Two Sorted Arrays**
+* **33. Search in Rotated Sorted Array**
+* **81. Search in Rotated Sorted Array II**
+* **56. Merge Intervals**
+* **451. Sort Characters By Frequency**
+* **692. Top K Frequent Words**
+
