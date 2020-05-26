@@ -76,6 +76,14 @@ classified by company
 * **843. Guess the Word**
 * **939. Minimum Area Rectangle**
 
+## [Recursion](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Recursion.ipynb)
+* **425. Word Squares**
+* **247. Strobogrammatic Number II**
+* **212. Word Search II**
+* **17. Letter Combinations of a Phone Number**
+* **22. Generate Parentheses**
+* **351. Android Unlock Patterns**
+
 # Bloomberg Interview
 
 ## [Sorting and Searching](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Sorting%20and%20Searching%20-%20(Top%20K%20Frequent).ipynb)
