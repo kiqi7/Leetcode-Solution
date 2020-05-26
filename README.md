@@ -63,6 +63,23 @@ classified by company
 * **753. Cracking the Safe**
 * **947. Most Stones Removed with Same Row or Column**
 
+## [Recursion](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Recursion.ipynb)
+* **425. Word Squares**
+* **247. Strobogrammatic Number II**
+* **212. Word Search II**
+* **17. Letter Combinations of a Phone Number**
+* **22. Generate Parentheses**
+* **351. Android Unlock Patterns**
+
+## [Sorting and Searching](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Sorting%20and%20Searching.ipynb)
+* **4. Median of Two Sorted Arrays**
+* **34. Find First and Last Position of Element in Sorted Array**
+* **57. Insert Interval**
+* **56. Merge Intervals**
+* **242. Valid Anagram**
+* **315. Count of Smaller Numbers After Self**
+* **852. Peak Index in a Mountain Array**
+
 ## [Others](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Others.ipynb)
 * **7. Reverse Integer**
 * **135. Candy**
@@ -75,14 +92,6 @@ classified by company
 * **777. Swap Adjacent in LR String**
 * **843. Guess the Word**
 * **939. Minimum Area Rectangle**
-
-## [Recursion](https://github.com/kiqi7/Leetcode-Solution/blob/master/Google/Recursion.ipynb)
-* **425. Word Squares**
-* **247. Strobogrammatic Number II**
-* **212. Word Search II**
-* **17. Letter Combinations of a Phone Number**
-* **22. Generate Parentheses**
-* **351. Android Unlock Patterns**
 
 # Bloomberg Interview
 
