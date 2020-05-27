@@ -95,6 +95,22 @@ classified by company
 
 # Bloomberg Interview
 
+## [Arrays and Strings](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Array%20and%20String.ipynb)
+* **1. Two Sum**
+* **3. Longest Substring Without Repeating Characters**
+* **167. Two Sum II**
+* **15. 3Sum**
+* **54. Spiral Matrix**
+* **88. Merge Sorted Array**
+* **118. Pascal's Triangle**
+* **242. Valid Anagram**
+* **273. Integer to English Words**
+* **283. Move Zeroes**
+* **387. First Unique Character in a String**
+* **443. String Compression**
+* **560. Subarray Sum Equals K**
+* **723. Candy Crush**
+
 ## [Sorting and Searching](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Sorting%20and%20Searching%20-%20(Top%20K%20Frequent).ipynb)
 * **4. Median of Two Sorted Arrays**
 * **33. Search in Rotated Sorted Array**
