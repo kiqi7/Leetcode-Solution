@@ -103,3 +103,8 @@ classified by company
 * **451. Sort Characters By Frequency**
 * **692. Top K Frequent Words**
 
+## [Heap, Queue, Stack](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Heap%2C%20Queue%2C%20Stack.ipynb)
+* **20. Valid Parentheses**
+* **42. Trapping Rain Water**
+* **239. Sliding Window Maximum**
+* **253. Meeting Rooms II**
