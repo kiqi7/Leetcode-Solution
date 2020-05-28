@@ -124,3 +124,13 @@ classified by company
 * **42. Trapping Rain Water**
 * **239. Sliding Window Maximum**
 * **253. Meeting Rooms II**
+
+## [Dynamic Programming & Others](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Dynamic%20Programming%20%26%20Others.ipynb)
+* **5. Longest Palindromic Substring**
+* **53. Maximum Subarray**
+* **139. Word Break**
+
+## [Others](https://github.com/kiqi7/Leetcode-Solution/blob/master/Bloomberg/Dynamic%20Programming%20%26%20Others.ipynb)
+* **79. Word Search**
+* **7. Reverse Integer**
+* **
